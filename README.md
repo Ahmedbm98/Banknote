@@ -2,10 +2,10 @@
 Banknote Task Langing Page
 
 # Description Task In This Link
-* [https://drive.google.com/file/d/1MCi0VpSUcty0eP51a5b8WtjdY-aZqQWo/view](https://drive.google.com/file/d/1CTylji5_igOjGVEbY7HkVnoVm3yggkC0/view?usp=drive_link)
+* [Banknote-Task](https://drive.google.com/file/d/1CTylji5_igOjGVEbY7HkVnoVm3yggkC0/view?usp=drive_link)
 
 # Live App
-- [Banknote-Task]([https://banknote-rust.vercel.app/](https://banknote-rust.vercel.app/))
+- [Banknote](https://banknote-rust.vercel.app/)
 
 
 
