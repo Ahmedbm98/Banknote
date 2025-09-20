@@ -1,0 +1,39 @@
+{
+  "featureGrocery": [
+    {
+      "id": 1,
+      "title": "Revana Tomato Sauce 800gm",
+      "image": "../src/assets/Imgs/Background card product (1).png",
+      "price": "150",
+      "starts": 4
+    },
+    {
+      "id": 2,
+      "title": "Revana Tomato Sauce 800gm",
+      "image": "../src/assets/Imgs/Background card product (2).png",
+      "price": "200",
+      "starts": 4
+    },
+    {
+      "id": 3,
+      "title": "Revana Tomato Sauce 800gm",
+      "image": "../src/assets/Imgs/Background card product (3).png",
+      "price": "180",
+      "starts": 4
+    },
+    {
+      "id": 4,
+      "title": "Revana Tomato Sauce 800gm",
+      "image": "../src/assets/Imgs/Background card product (4).png",
+      "price": "240",
+      "starts": 4
+    },
+    {
+      "id": 5,
+      "title": "Revana Tomato Sauce 800gm",
+      "image": "../src/assets/Imgs/Background card product (5).png",
+      "price": "240",
+      "starts": 4
+    }
+  ]
+}
