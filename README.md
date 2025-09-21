@@ -1,12 +1,29 @@
-# React + Vite
+# Overview 
+Banknote Task Langing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description Task In This Link
+* [Banknote-Task](https://drive.google.com/file/d/1CTylji5_igOjGVEbY7HkVnoVm3yggkC0/view?usp=drive_link)
 
-Currently, two official plugins are available:
+# Live App
+- [Banknote](https://banknote-rust.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Technologies, Libraries
+1. ReactJs
+2. Tailwindcss
+3. Swiper
+
+# Contact Me
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at ahmedabasset.dev@gmail.com. I would love to hear from you!
+
+# Getting Started
+> $ git clone https://github.com/Ahmedbm98/Banknote.git
+
+> $ cd Banknote
+
+### Then install the dependencies:
+> $ npm install
+
+### Running the App:
+> $ npm run dev
